@@ -1,3 +1,6 @@
+# Work files I don't want to save to Git
+*.html
+
 # History files
 .Rhistory
 .Rapp.history

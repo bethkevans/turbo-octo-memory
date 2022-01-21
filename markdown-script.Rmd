@@ -1,0 +1,28 @@
+---
+title: "NC_R_MKD"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Title
+
+## Subheading
+
+### Subsubheading
+
+In this section I did x, y, z (can give more detail about my analysis)
+
+``` {r, echo = FALSE}
+x <- 1:100
+y <- rnorm(100)
+
+```
+
+``` {r}
+
+plot(y~x)
+
+```
