@@ -26,4 +26,3 @@ y <- rnorm(100)
 plot(y~x)
 
 ```
-![Alt Text] (https://tenor.com/bJ75h.gif)
